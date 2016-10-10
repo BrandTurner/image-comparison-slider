@@ -1,6 +1,7 @@
 ## Image Comparison Slider
 
 2 images will be layered on top of each other and a divider will be added. Using mouse or touch move it will display parts of the images.
+
 Plain JS, no dependencies
 
 ## Examples
